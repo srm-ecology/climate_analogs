@@ -1,4 +1,4 @@
-# Template repository for NEON Biodiversity Research
+# Template repository for Climate Analog research project
 
 [*For more information on how to use this repository, see: [AboutThisTemplate.md](https://github.com/NEON-biodiversity/template_repository/blob/main/AboutThisTemplate.md)*]
 
