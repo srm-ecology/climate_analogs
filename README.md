@@ -1,6 +1,6 @@
 # Template repository for climate analog research project
 
-[*For more information on how to use this repository, see: [AboutThisTemplate.md](https://github.com/NEON-biodiversity/template_repository/blob/main/AboutThisTemplate.md)*]
+[*For more information on how to use this repository, see: [AboutThisTemplate.md](https://github.com/srm-ecology/climate_analogs.git)*]
 
 ## Table of Contents
 - [Introduction](#Introduction)
