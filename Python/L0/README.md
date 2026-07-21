@@ -1,9 +1,14 @@
 # Climate Analogs Under SAI
+All work in this repo is authored by Ruoyu (Sophia) Chen, and is part of an ongoing project.
 
 ### Code files breakdown:  
 * `code_to_avg_files.ipynb` (1)
 * `all_data_for_location.ipynb` (2)
 * `graphs_compare_future.ipynb` (3)
+    * This includes most of the plots for MidSURE poster.
+* `helper_function_get_location_data_all_pixels.py`: Simply a helper file that includes a copy of the `get_location_data_all_pixels` function. 
+* `midsure_figure3_original_from_lala_plot_point_timeseries.py`: This is the ORIGINAL code for time series of one place on the MidSURE poster from Lala.
+* `midsure_figure3_updated_copy_plot_point_timeseries.py`: This is the UPDATED code that creates Figure 3 on MidSURE poster. This simply deletes the key from each subplot and moves it to the bottom of the graph. 
 
 
 ### All work is in `/mnt/research/nasabio/data/climate/L1/present`. 
