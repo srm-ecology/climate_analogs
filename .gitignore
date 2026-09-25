@@ -47,3 +47,6 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# ncar code 
+Python/L0/ncar_analog_code/
